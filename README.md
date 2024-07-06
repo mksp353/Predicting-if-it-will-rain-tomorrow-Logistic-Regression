@@ -19,4 +19,4 @@ The weather data used in this project is sourced from Kaggle (https://www.kaggle
   
 The confusion matrix provides a detailed assessment of the model's performance in predicting rainfall.  
 
-**i have not added the data file, please download the file for kaggle 😅**
+**I have not added the data file, please download the file for kaggle 😅**
